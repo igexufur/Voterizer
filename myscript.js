@@ -7,4 +7,4 @@ var clickLink = function() {
 }
 
 // Run click function every second, until it clicks it.
-var waitAndClick = setInterval(clickLink, 2000);
+var waitAndClick = setInterval(clickLink, 10000);

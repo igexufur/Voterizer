@@ -1,5 +1,5 @@
 # Voterizer
-Simple Vote Bot Chrome Extension
+Simple Voter Chrome Extension
 
 1. Clone files into local directory.
 2. Open Chrome extensions panel
